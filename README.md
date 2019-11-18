@@ -8,6 +8,10 @@ See `urxvt-config/.Xressources`
 
 Located in `i3/config`
 
+## Lighthouse
+
+TODO: Lighthouse config
+
 ## VSCode
 
 ### Extensions
